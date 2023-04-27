@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<head>
+   <h1><center>Resume</center></h1> 
+<hr/>
+<body>
+    <h2>Summary</h2> 
+    <p>3rd year Law student</p>
+    <p></p>
+    <hr/>
+    <h2>Education</h2>
+    <ol>
+        <li>BA LLB(Hons) - 2020-2025</li>
+        <LI>PSBB Millennium School - 93.2%</LI>
+        <li>Hiranandani Upscale School - 80.5%</li>
+    </ol>
+    <hr/>
+    <h2>Work experience (internships)</h2>
+    <ol>
+        <li>HSB Partners </li>
+        <li>Justice M. Sundar - High Court of Madras </li>
+        <li>Prodapt Solutions - in-house</li>
+        <li>Gupta and Ravi Advocates</li>
+        <li>State Human Rights Commission Tamil Nadu</li>
+        <li>Wondering Blog</li>
+    </ol>
+    <hr/>
+    <h2>Publications/Participations</h2>
+    <ol>
+        <li>AI and Law</li>
+        <li>That cloud is my property - an insight into air and space laws </li>
+        <li>The Designer Baby Quandary</li>
+        <li>Tax Law conference 2023 </li>
+        <li>STEAR Conference 2023</li>
+    </ol>
+    <hr/>
+    <h2>Languages</h2>
+    <p>English, Hindi, Malayalam, Tamil</p>
+
+</body>
+</head>
